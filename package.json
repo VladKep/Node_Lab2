@@ -1,0 +1,19 @@
+{
+  "name": "node_lab2",
+  "version": "1.0.0",
+  "description": "Lab 2 Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VladKep/Node_Lab2.git"
+  },
+  "author": "VladKep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladKep/Node_Lab2/issues"
+  },
+  "homepage": "https://github.com/VladKep/Node_Lab2#readme"
+}
